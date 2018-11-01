@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541086199 source:f:\acm\ass2_indv\main.cpp
+	<iostream>
+	"Card.h"
+
+1541086246 f:\acm\ass2_indv\include\card.h
+	<iostream>
+
+1541086167 source:f:\acm\ass2_indv\src\card.cpp
+	"Card.h"
+	<iostream>
+
